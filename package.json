@@ -1,0 +1,18 @@
+{
+  "name": "jquery-cjs",
+  "version": "2.0.3",
+  "description": "jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.",
+  "main": "jquery-2.0.3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leahciMic/jQuery-cjs"
+  },
+  "author": "James Morrin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leahciMic/jQuery-cjs/issues"
+  }
+}
